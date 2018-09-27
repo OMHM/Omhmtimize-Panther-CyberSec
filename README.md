@@ -1,5 +1,3 @@
-# Omhmtimize-Panther-CyberSec
-Optimized Learning Through Foundation Logic for Chaffey Cyber Security Club
 <center><b><u># MISSION</b></u><br></center>
          Omhmtimize strives to create a streamlined learning experience for modern society. The difficulty of learning a new subject can be a huge deterent. Compounding the frustration of learning newsubjects, the overwhelming lack of valid or sufficient resources form a hostile enviroment. Here at OMHM, we are constantly developing a model of human learning in an effort to make learning less frightnening and possible for the global community. By vigorously striving to source only the most relavant and accurate data as well as continually working to perfect the academic paradigm, we hope to one day leave no corner of the globe in the dark. <br>
 
@@ -14,30 +12,37 @@ Optimized Learning Through Foundation Logic for Chaffey Cyber Security Club
    
            
 <i>“ Knowledge is power, we seek to bestow power upon you”</i>
-- OMHM
-  
- 
- GOALS FOR MEMBERS
+<font size="-30%"><b> OMHM<b></font><br>
+<b><u> GOALS FOR MEMBERS</b></u>
+<br>
+<b>We believe that for one to learn a concept they should understand:</b> <br>
+<ol>
+<li>How it works AND how to use it</li>
+<li> What it does </li>
+<li> When and where to use it</li>
+ <li>Why it is used or needed.</li>
+ </ol>
 
-We believe that for one to learn a concept they should understand: How it works/how to use it, what it does, when and where to use it, and why it is used or needed.
-
-How, What, When, Where, Why: The keys to understanding 
+<b><u>How, What, When, Where, Why: The keys to understanding </b></u>
 
 
 
 <b>Skills</b>
-   > Gain knowledge in several areas of computer science while having fun and networking with peers
-   > Understand the fundamental concepts of the computational process, programming, hardware, networking, and full-stack web development
-   > Be able to implement the development process and basic project management skills/tools
-   > Confidence in each members own abilities not only in what skills they know but also their ability to discover the unknown
+<br><ol>
+   <li> Gain knowledge in several areas of computer science while having fun and networking with peers</li>
+   <li> Understand the fundamental concepts of the computational process, programming, hardware, networking, and full stack web development</li>
+   <li> Be able to implement the development process and basic project management skills/tools</li>
+   <li> Confidence in each members own abilities not only in what skills they know but also their ability to discover the unknown</li></ol>
    
-<b> Job Readiness<b>    
-   > Creation confident job ready intellectuals through interactive group labs and excersises where members design, build/develop, implement, and troubleshoot projects 
-   > Job and team readiness through porfolio creation via the members own projects with peers
-   > Knowledge of CIS career paths as well as practical use of the technologies and expectations required 
-   > Ability to apply concepts and logic learned to fields outside of Computer Science 
+<b> Job Readiness</b>    
+   <li> Creation confident job ready intellectuals through interactive group labs and excersises where members design, build/develop, implement, and troubleshoot projects.</li> 
+<li> Job and team readiness through porfolio creation via the members own projects with peers</li>
+  <li>Knowledge of CIS career paths as well as practical use of the technologies and expectations required </li>
+  <li>Ability to apply concepts and logic learned to fields outside of Computer Science </li>
   
- We believe that for one to learn a concept the should understand: How it works/how to use it, what it does, when and where to use it, and why it is used or needed.
+<b> We believe that for one to learn a concept the should understand:</b> <br><ol>
+<li>How it works</li><li>How to use it</li><li> What it does</li><li> When and Where to use it</li>
+<li>Why it is used or needed.</li></ol>
 
 <b>How, What, When, Where, Why: The keys to understanding </b>
 
@@ -105,17 +110,3 @@ How, What, When, Where, Why: The keys to understanding
 
 <b>“LOVE, LEARN, LIV”</b>
 - OMHM
-
-## About Omhmtimize
-
-  > Who we are?
-  > When the journey began?
-  > What we do ?
-  > Why it matters to you?
-  > How it is applicable?
-  > Where can we help?
-  
-## Mission
-
-
-## Getting Involved
