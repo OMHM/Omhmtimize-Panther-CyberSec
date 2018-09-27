@@ -1,8 +1,8 @@
-## Omhmtimize-Panther-CyberSec
+# Omhmtimize-Panther-CyberSec
 Optimized Learning Through Foundation Logic for Chaffey Cyber Security Club
 
 
-# About Omhmtimize
+## About Omhmtimize
 
   > Who we are?
   > When the journey began?
@@ -11,7 +11,7 @@ Optimized Learning Through Foundation Logic for Chaffey Cyber Security Club
   > How it is applicable?
   > Where can we help?
   
-# Mission
+## Mission
 
 
-# Getting Involved
+## Getting Involved
