@@ -12,7 +12,8 @@
    
            
 <i>“ Knowledge is power, we seek to bestow power upon you”</i>
-<font size="-30%"><b> OMHM<b></font><br>
+<br>
+<font size="-30%">OMHM</font><br>
 <b><u> GOALS FOR MEMBERS</b></u>
 <br>
 <b>We believe that for one to learn a concept they should understand:</b> <br>
